@@ -1,0 +1,20 @@
+
+No Thanks - Elements 
+  
+  Deck  
+    Full Deck =  33
+    Play Deck =  24
+  
+  Chips 
+    Full =       55
+    Per Player = 11
+  
+  Abrv. Rules
+    Face up card = 1
+    Play options are take card or add chip
+    Chips add until card is taken
+    Chips are Hidden
+    Next round start with card taker
+    Card depletion = end of game
+  
+  
