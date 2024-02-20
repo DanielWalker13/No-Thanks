@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# No-Thanks
-=======
 
 
 # No Thank: Card Game
@@ -18,4 +15,3 @@ Mostly in good shape
         * Ties broken by fewest cards
         * Card ties are brokes by lowest card in hand
 
->>>>>>> Stashed changes
