@@ -1,0 +1,47 @@
+
+No Thanks Rules
+
+Components
+  ^ 33 cards with numbers from 3 to 35
+  ^ 55 playing chips
+
+Setup
+
+  ^ Each player gets 11 chips. 
+  ^ Remaining chips are removed from the game. 
+  ^ Shuffle the cards, then place 24 face-down in center of the table. 
+  ^ The remaining 9 cards are removed from the game. 
+  **All players should keep their chips hidden in their hand so that the other players cannot see them.
+
+Rules
+
+  ^ Each single card in front of a player counts points as face value of the card. 
+  ^ Unbroken number sequences only count as points for the lowest number in the sequence.  
+  ^ To avoid having to take a card, the player whose turn it is must pay a chip. 
+  ^ At the end of the game, each chip you have subtracts from your total points.
+  ^ Randomly determine which player begins. 
+  ^ Cards remain in front of player face up
+
+Game Play
+
+  ^ Current player turns over the top card of the deck
+      ^ either take the card 
+      ^ or decline it and put one chip on the card.
+  ^ If the player declines the card, play passes to the left-hand. 
+      ^ Repeat steps above
+  ^ The person who takes the card receives all chips on top. 
+  ^ The game continues in this manner until all cards of the deck have been used up. 
+  ^ As soon as the last card of the deck has found a player who accepts it, the game ends and the final scores are calculated.
+
+
+End of the Game
+
+  ^ Add up the values of all his single cards
+  ^ Group strings of cards and add the lowest to total
+  ^ Subtracts remaining chips from the card toatl 
+
+The player with the lowest final score wins.
+
+
+
+ 
